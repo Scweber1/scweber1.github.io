@@ -1,13 +1,19 @@
 # scweber1.github.io
 
+# Previous Lab Questions:
+1. Name: Sarah Weber , Email: scweber1@my.waketech.edu 
+2. I created this GitHub account today. I had another account many years ago for another class, but it has been so long that I have a lot to be refreshed on. With my Github account, I am able to host and collaborate on code-related projects. This gives me the ability to show development work, track project versions, and contribute to open-source communities. 
+3. The repository I created was made for the Lesson 05 Lab, which was intended to teach students to use Github Desktop to clone a Github Pages repository, add their website files to the local repository folder, commit their changes, push their changes to Github, and successfully publish a website at the designated Github Pages URL. This repository contains the changes that I made to the README file, which includes all the answers to the required questions, including my name, a description of my Github account, a description of the repository I created, and a brief description of the steps I took to clone the repository on my local machine. 
+4. I accomplished this task through following the steps detailed in the assignment, which were all straightforward and easy to follow. This began by creating a Github account as well as downloading Github Desktop. I went through the correct motions to create a new repository, named the repository, and cloned it. I saved this clone to a folder on my computer that I would be able to easily locate again in the future. Through Github Desktop, I was able to take the changes that I made to this file, commit those changes, and then push the file.
 
-
-
-# 1. Name: Sarah Weber Email: scweber1@my.waketech.edu 
-
-# 2. I created this GitHub account today. I had another account many years ago for another class, but it has been so long that I have a lot to be refreshed on. With my Github account, I am able to host and collaborate on code-related projects. This gives me the ability to show development work, track project versions, and contribute to open-source communities. 
-
-# 3. The repository I created was made for the Lesson 05 Lab, which was intended to teach students to use Github Desktop to clone a Github Pages repository, add their website files to the local repository folder, commit their changes, push their changes to Github, and successfully publish a website at the designated Github Pages URL. This repository contains the changes that I made to the README file, which includes all the answers to the required questions, including my name, a description of my Github account, a description of the repository I created, and a brief description of the steps I took to clone the repository on my local machine. 
-
-# 4. I accomplished this task through following the steps detailed in the assignment, which were all straightforward and easy to follow. This began by creating a Github account as well as downloading Github Desktop. I went through the correct motions to create a new repository, named the repository, and cloned it. I saved this clone to a folder on my computer that I would be able to easily locate again in the future. Through Github Desktop, I was able to take the changes that I made to this file, commit those changes, and then push the file. 
+# About Me
+Hello! My name is Sarah Weber. I am currently enrolled in Wake Tech's Web & UX Design program. I discovered UX while obtaining my undergraduate degree from NC State, and fell in love with the career as an option for me. Unfortunately, my degree was not directly relevant, and I struggled to break through on any job or internship. I went through a lengthy self training process and dabbled in freelancing, but I ultimately felt like I still needed a formal UX training under my belt. This is why I have come back to school for an associate's degree. Keep reading to learn more about my education and work history, my skills, and my hobbies. 
+## Education and Work History 
+Prior to my UX career path, I obtained two BA degrees from NC State in Media Communications and French Language. Part of my time with NCSU was spent in France, studying abroad at the Universite Catholique de Lille. I have work experience as a digital marketing manager for UPTC, UX designer for Hearthstone Management, and Freelance UX design. In my free time, I have volunteered with AventWest Children's Mentoring, serving middle school students of low-income families. I also currently volunteer as a social media and commmunications manager for a local church. I am a member of Triangle UXPA and IDSA RDU. 
+## My Skills 
+My skills include Figma, Adobe, Miro, Agile methodology, prototyping, HTML, CSS, javascript, usability testing, and iterative development. I am so excited to add the new knowledge from this course into my set of skills. To learn more about my skills, check out these websites: 
+- [My Portfolio Website](https://sarahweber445.wixsite.com/sarahcweber-portfoli) - This link will take you to my personal portfolio, a collection of my works. Explore previous projects of mine and my skills in action. 
+- [My LinkedIn](https://www.linkedin.com/in/sarahc-weber) - This link leads to my LinkedIn profile, where you can further examine my history, experience, connections, and references. 
+## My Hobbies 
+I am constantly learning new skills and love picking up new hobbies. Some of my current favorite hobbies include fiber arts (macrame, knitting, sewing), running, cooking, and motorcycles. 
 
