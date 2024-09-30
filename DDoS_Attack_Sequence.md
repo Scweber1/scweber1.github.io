@@ -25,7 +25,8 @@ sequenceDiagram
 
 ```
 
-###Sequence Breakdown: 
+### Sequence Breakdown: 
+
 1. **Attacker Sends Command**: In the first step, the attacker sends out the command for the bots to launch a DDoS and overwhelm the system. 
   
 2. **BotNet Overwhelms WebServer**: The botnet floods the web server with a huge volume of requests. The web server gets overwhelmed and cannot manage the legitimate users.
